@@ -16,6 +16,5 @@
 - `git switch -c Tarefa_C`    (cria e alterna para um novo branch chamado Tarefa_C)
 - `git checkout main`         (altera para o branch main)
 - `git merge Tarefa_C`        (mescla a branch Tarefa_C com o que já temos na main)
-- `git rebase main`           (aplica as mudanças da branch atual sobre a branch main, reescrevendo a história)
 
 Para mais detalhes sobre visualização de commits no Git, acesse: [Git Visualizing](https://git-school.github.io/visualizing-git/)
