@@ -1,4 +1,6 @@
 - `git log --oneline`         (mostra os commits de forma resumida em uma única linha)
+- `git branch -d <branch>´    (apaga a Excluir um branch)
+- `git push origin --delete <branch_remota>´ (apaga branch remota)
 - `git log -p`                (mostra as alterações em cada arquivo modificado)
 - `git log --graph`           (exibe o histórico de commits com representação visual dos branches)
 - `git status`                (mostra o estado atual dos arquivos no repositório)
